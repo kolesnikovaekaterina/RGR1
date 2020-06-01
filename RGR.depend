@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1590756301 source:c:\users\79085\desktop\rgr\main.cpp
+	"field.h"
+	<stdio.h>
+
+1590769473 c:\users\79085\desktop\rgr\field.h
+	<vector>
+	<fstream>
+	<string>
+	<utility>
+
+1590772278 source:c:\users\79085\desktop\rgr\field.cpp
+	"field.h"
+	<stdio.h>
+	<queue>
+
+1591048240 source:c:\users\79085\desktop\ЯП 2 семестр\ИБС_12_Колесникова_Е_А_Лабиринт_поиск_кратчайшего_пути\ИБС_12_Колесникова_Е_А_Лабиринт_поиск_кратчайшего_пути\main.cpp
+	"field.h"
+	<stdio.h>
+
+1591050162 c:\users\79085\desktop\ЯП 2 семестр\ИБС_12_Колесникова_Е_А_Лабиринт_поиск_кратчайшего_пути\ИБС_12_Колесникова_Е_А_Лабиринт_поиск_кратчайшего_пути\field.h
+	<vector>
+	<fstream>
+	<string>
+	<utility>
+
+1591045976 source:c:\users\79085\desktop\ЯП 2 семестр\ИБС_12_Колесникова_Е_А_Лабиринт_поиск_кратчайшего_пути\ИБС_12_Колесникова_Е_А_Лабиринт_поиск_кратчайшего_пути\field.cpp
+	"field.h"
+	<stdio.h>
+	<queue>
+
